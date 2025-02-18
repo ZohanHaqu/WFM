@@ -23,10 +23,6 @@
 - **Open Folders**: Navigate through your system using the file explorer.
 - **File Operations**: Use the right-click menu for basic file management tasks (rename, copy, move, delete).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Since I didn't create this, if you have any questions or need support, please ask [Brunosx](https://github.com/Brunodev85), as they are the original creator.
