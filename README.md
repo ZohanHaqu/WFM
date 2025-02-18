@@ -16,7 +16,7 @@
 
 ## Installation
 
-1. Download the latest release from the [Releases page](https://github.com/Brunodev85/WFM/releases).
+1. Download the latest release from the [Releases page](https://github.com/ZohanHaqu/WFM/releases/tag/1.4).
 
 ## Usage
 
