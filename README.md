@@ -1,8 +1,8 @@
 # WFM (Winlator File Manager)
 
-**WFM (Winlator File Manager)** is a simple file manager that I created just for fun. 
+**WFM (Winlator File Manager)** is a simple file manager that I found and decided to share for fun. 
 
-> **Important**: I am **NOT** the original author of this project. The original author is [Brunosx](https://github.com/Brunodev85).
+> **Important**: I am **NOT** the original creator of this file manager. The original author is [Brunosx](https://github.com/Brunodev85).
 
 ## Features
 
@@ -11,14 +11,12 @@
 
 ## Limitations
 
-- **No Compression/Extraction**: WFM does not support compressing or extracting folders or other advanced file manager features.
-- **Lightweight Functionality**: This file manager is intended to be simple and does not include any advanced file management features.
+- **No Compression/Extraction**: WFM does not support compressing or extracting folders or performing other advanced file manager tasks.
+- **Basic Features Only**: The file manager is designed to be simple and doesn't include advanced features.
 
 ## Installation
 
 1. Download the latest release from the [Releases page](https://github.com/Brunodev85/WFM/releases).
-2. Extract the files to your desired directory.
-3. Launch `wfm.exe` to start using the file manager.
 
 ## Usage
 
@@ -31,4 +29,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Since I made this project just for fun, if you have any questions or need support, please ask [Brunosx](https://github.com/Brunodev85), as they are the original author.
+Since I didn't create this, if you have any questions or need support, please ask [Brunosx](https://github.com/Brunodev85), as they are the original creator.
